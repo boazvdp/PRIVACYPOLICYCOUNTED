@@ -1,11 +1,10 @@
-Privacy Policy for Counted – Personal Logbook
+Privacy Policy for Counted – Habit Tracker
 
 Last updated: January 8, 2026
 
 Our Commitment to Privacy
 
-Counted – Personal Logbook is designed to be simple, private, and respectful of your data.
-Anything you log is personal, and we believe it should remain fully under your control.
+Counted – Habit Tracker is a simple, personal counter. Tap to log anything you want to track — habits, behaviors, or personal data. No goals. No streaks. No judgment.
 
 This Privacy Policy explains how Counted handles your data.
 
